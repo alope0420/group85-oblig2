@@ -4,15 +4,13 @@ body {
   
   h1 {
     color: white;
-    text-align: center;
-    font-size: 45px;
+    text-align: left;
+    font-size: 50px;
+    line-height: 0%;
   }
-  sub {
-    color: blue;
-    text-align: center;
-    font-family: 'Times New Roman', Times, serif;
-  }
-  p {
+
+  .underoverskrift {
     font-family: verdana;
     font-size: 20px;
+
   }
