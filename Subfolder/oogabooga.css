@@ -10,7 +10,6 @@ body {
   }
 
   .underoverskrift {
-    font-family: verdana;
     font-size: 20px;
-
+    line-height: 200%;
   }
