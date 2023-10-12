@@ -1,0 +1,29 @@
+body {
+    background-color:  whitesmoke;
+  }
+  
+  h1 {
+    text-align: left;
+    font-size: 50px;
+    line-height: 0%;
+  }
+
+  .underoverskrift {
+    font-size: 20px;
+    line-height: 100%;
+  }
+  .navn {
+    line-height: 300%;
+  }
+
+  .paragraf {
+    text-align: left;
+    font-size: 20px;
+    line-height: 100%;
+  }
+
+  p{
+    margin-right: 325px
+
+
+  }
