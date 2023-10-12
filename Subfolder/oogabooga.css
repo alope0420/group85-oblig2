@@ -15,6 +15,9 @@ body {
   .navn {
     line-height: 300%;
   }
+  #vingo {
+    color:darkblue;
+  }
 
   .paragraf {
     text-align: left;
@@ -24,6 +27,4 @@ body {
 
   p{
     margin-right: 325px
-
-
   }
