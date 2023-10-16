@@ -31,7 +31,8 @@ main {
     margin: 50px;
 }
 
-img {
+img#article-image {
+    aspect-ratio: 16 / 9;
     width: 100%;
 }
 
